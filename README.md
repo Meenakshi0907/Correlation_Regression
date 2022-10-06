@@ -20,7 +20,7 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
-```
+'''
 import numpy as np
 import math
 import matplotlib.pyplot as plt 
@@ -53,9 +53,9 @@ plt.plot(x,y1,'r')
 plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
-```
+'''
 # Output : 
-! [image](![Screenshot (17)](https://user-images.githubusercontent.com/94165108/194225496-4128b7e3-bc3d-4db8-a4de-47a9ecc5e2ec.png))
+! [image](![Screenshot (17)](https://user-images.githubusercontent.com/94165108/194225496-4128b7e3-bc3d-4db8-a4de-47a9ecc5e2ec.png)
 
 # Result :
 Hence the data has been analysed using coeffificient of correlation and regression line
